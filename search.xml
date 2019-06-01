@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[hello hexo]]></title>
-    <url>%2F2019%2F05%2F30%2Fhello-hexo%2F</url>
-    <content type="text"><![CDATA[哇咔咔]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>hello hexo</title>
+      <link href="/2019/05/30/hello-hexo/"/>
+      <url>/2019/05/30/hello-hexo/</url>
+      
+        <content type="html"><![CDATA[<p>哇咔咔 </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
