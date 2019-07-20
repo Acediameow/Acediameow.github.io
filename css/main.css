@@ -1818,7 +1818,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bf7a73;
+  background: #4ad66b;
 }
 .feed-link,
 .chat {
@@ -3031,7 +3031,7 @@ ul.breadcrumb li+li:last-child {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background-image: url("/images/background.jpg");
+  background-image: url("https://s2.ax1x.com/2019/07/20/ZzDZdO.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
